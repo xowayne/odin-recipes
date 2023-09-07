@@ -1,0 +1,19 @@
+#mtitle {
+    text-align: center;
+    text-decoration-line: underline;
+    font-size: 60px;
+    color: rgb(190, 102, 1);
+}
+
+.list {
+    background-color: rgb(255, 145, 18);
+    font-size: 20px;
+    margin-left:250px;
+    
+}
+
+.bfont{
+    color:rgb(0, 0, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-weight:bold 
+}
