@@ -1,6 +1,7 @@
 #mtitle {
     text-align: center;
     text-decoration-line: underline;
+    text-decoration-color: black;
     font-size: 80px;
     color: rgb(190, 102, 1);
 }
@@ -10,7 +11,7 @@
     font-size: 30px;
     margin:auto;
     padding: 40px;
-    border: 10px solid black;
+    border: 5px solid black;
     display: block;
     align-items: center;
     margin-bottom: 50px;
@@ -22,4 +23,20 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial;
     font-weight:bold;
     text-decoration: none; 
+}
+
+.flexbox{
+    display:flex;
+    gap: 2rem;
+    
+}
+
+.flex1{
+    font-size: 15px;
+    font-weight: bold;
+    flex-grow: 1;
+    text-align: center;
+    background-color:rgb(255, 145, 18);
+    list-style-type: none;
+    border: black 3px solid;
 }
